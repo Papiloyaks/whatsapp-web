@@ -1,0 +1,84 @@
+ body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ .containerOne{
+    background-color: rgb(0, 168, 132);
+    height: 200px;
+ }
+
+ .containerTwo{
+    background-color: rgb(240, 242, 245);
+    height: 90vh;
+ }
+
+ .containerThree{
+    position: absolute;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    box-shadow: 0px 0px 20px 1px rgba(0, 0, 0, 0.288);
+    width: 750px;
+    height: 100vh;
+    top: 100px;
+    left: 400px;
+    
+ }
+
+ .divOne{
+    position: absolute;
+    left: 500px;
+    top: 28px;
+    font-size: 12px;
+    color: #FFFFFF;
+    bottom: 20px;
+    box-shadow: 150px;
+ }
+
+ .whatsapp{
+    position: static;
+    left: 50px;
+    top: -35px;
+    font-weight: 400px;
+    font-size: 11px;
+
+ }
+
+ #img{
+   margin-left: 500px;
+   margin-top: 100px;
+ }
+
+ .inner{
+   margin-left: 50px;
+   margin-bottom: 60px;
+   font-size: 20px;
+   position: relative;
+   top: -200px;
+ }
+
+ li{
+   margin-left: 35px;
+   margin-bottom: 10px;
+   position: relative;
+   top: -220px;
+ }
+
+ .video{
+   position: relative;
+   top: -150px;
+   left: 140px;
+
+ }
+
+ .Tuto{
+   position: relative;
+   top: -160px;
+   text-align: center;
+   color: rgb(76, 92, 103);
+ }
+
+ .A{
+   text-decoration: none;
+   color: rgb(0, 128,105);
+ }
+
+  
